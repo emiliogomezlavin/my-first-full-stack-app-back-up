@@ -1,0 +1,135 @@
+/*body {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/a/ab/Night_Panorama_of_Golden_Gate_Bridge.jpg");
+  background-size: cover;
+  width: 100%
+}
+*/
+#background-photo {
+	margin-top: -20px;
+}
+
+#searchBox {
+  margin-top: 7px !important;
+}
+
+ul {
+	list-style-type: none;
+}
+
+#underConst {
+  color: black;
+}
+
+#showImg {
+	margin: 15px;
+	border: 2px solid gray;
+	border-radius: 5px;
+  height: 400px;
+  width: 100%;
+}
+
+.imgTag {
+  margin-bottom: -20px;
+}
+
+.collec {
+  color: #b71c1c;
+}
+
+h1{
+  color: #b71c1c;
+  padding-bottom: 10px;
+}
+
+h2, h5 {
+  color: #37474f;
+}
+
+h3 {
+  font-size: 90px;
+}
+
+#about {
+  height: 350px;
+}
+
+#login {
+  background-color: #eceff1;
+}
+
+#titleLogIn {
+  color: #039be5;
+  font-size: 50px;
+}
+
+#destImg {
+  height: 200px;
+}
+
+#map {
+  height: 400px;
+  width: 100%;
+  border-radius: 5px;
+  border: 3px solid gray;
+}
+
+#street-view {
+  margin: 15px;
+  border: 2px solid gray;
+  border-radius: 5px;
+  height: 400px;
+  width: 100%;
+}
+
+#mapNewDest {
+  height: 445px;
+  width: 100%;
+  border: 2px solid gray;
+  border-radius: 5px;
+}
+
+.controls {
+  margin-top: 10px;
+  border: 1px solid transparent;
+  border-radius: 2px 0 0 2px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  height: 32px;
+  outline: none;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+
+#pac-input {
+  background-color: #fff;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 300;
+  margin-left: 12px;
+  padding: 0 11px 0 13px;
+  text-overflow: ellipsis;
+  width: 300px;
+}
+
+#pac-input:focus {
+  border-color: #4d90fe;
+}
+
+.pac-container {
+  font-family: Roboto;
+}
+
+#type-selector {
+  color: #fff;
+  background-color: #4d90fe;
+  padding: 5px 11px 0px 11px;
+}
+
+#type-selector label {
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 300;
+}
+
+#target {
+  width: 345px;
+}
